@@ -6,7 +6,7 @@ CV_star_face_recognition.ipynb - [Link](https://colab.research.google.com/drive/
 ## NLP
 
 
-##RecSys
+## RecSys
 
 
 ## ML
