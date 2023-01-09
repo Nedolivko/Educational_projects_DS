@@ -7,7 +7,7 @@
 - mds-misis-dl-flower-photos-classification.ipynb - [Link](https://www.kaggle.com/code/alekseinedolivko/mds-misis-dl-flower-photos-classification)
 
 ## NLP
-
+- Text Classification using RNN and RoBERTa
 
 ## RecSys
 
