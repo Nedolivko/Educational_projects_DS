@@ -8,6 +8,7 @@
 
 ## NLP
 - Text Classification using RNN and RoBERTa - [Link](https://www.kaggle.com/code/alekseinedolivko/nlp-sentiment-analysis)
+- Token Classification bert-base-NER - [Link](https://colab.research.google.com/drive/1p-PcChSsYMraWfUEa5QWQHt8iCvuY-hK?authuser=1#scrollTo=0mEkjaFSSR-c)
 
 ## RecSys
 
