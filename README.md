@@ -14,3 +14,4 @@
 
 
 ## ML
+- Regression with PyCaret - [Link](https://colab.research.google.com/drive/13hm5GufJgn3ak3H4o3xN3ww0D2dYEN0L?usp=sharing)
